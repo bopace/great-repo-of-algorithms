@@ -1,5 +1,5 @@
 # Bo Pace, Sep 2016
-
+# Bubble sort
 # This implementation is optimized in the sense that the algorithm only
 # checks items in the array that have not already been sorted. After the
 # last sort of a round, the new ending index is adjusted accordingly.
@@ -8,7 +8,7 @@
 # then end. However, the average and worst case are still O(n^2). This
 # is pretty bad.
 
-def bubblesort(arr):
+def bubble_sort(arr):
 
     sorted_count = len(arr)
     
@@ -26,7 +26,7 @@ def bubblesort(arr):
 
 # Vanilla implementation for kicks:
 
-def vanilla_bubblesort(arr):
+def vanilla_bubble_sort(arr):
 
     for _ in range(len(arr)):
         for i in range(1, len(arr)):

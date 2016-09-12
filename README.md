@@ -4,4 +4,5 @@
 ## Algorithms added so far
 
 ### Sorting
-* Bubblesort
+* Bubble sort
+* Selection sort

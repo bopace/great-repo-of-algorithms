@@ -11,7 +11,7 @@ Currently only available in Python. Other languages coming soon!
 
 ## Data Structures
 
-Coming soon!
+* Stack
 
 ## Programming Problems
 

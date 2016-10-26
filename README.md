@@ -1,8 +1,18 @@
-# The Great Repo of Algorithms
-(Currently only available in Python)
+# The Great Repo of Algorithms and Data Structures
 
-## Algorithms added so far
+Currently only available in Python. Other languages coming soon!
+
+## Algorithms
 
 ### Sorting
 * Bubble sort
 * Selection sort
+* Merge sort
+
+## Data Structures
+
+Coming soon!
+
+## Programming Problems
+
+Coming soon!

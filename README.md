@@ -4,15 +4,16 @@ Currently only available in Python. Other languages coming soon!
 
 ## Algorithms
 
-### Sorting
-* Bubble sort
-* Selection sort
-* Merge sort
+### [Sorting](algorithms/sorting)
+* [Bubble sort](algorithms/sorting/bubble-sort)
+* [Selection sort](algorithms/sorting/selection-sort)
+* [Merge sort](algorithms/sorting/merge-sort)
+* [Quicksort](algorithms/sorting/quicksort)
 
 ## Data Structures
 
-* Stack
+* [Stack](data-structures/stack)
 
 ## Programming Problems
 
-* Merge Intervals
+* [Merge Intervals](interview-prep/merge-intervals/python/Merge%20Intervals.ipynb)

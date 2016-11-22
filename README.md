@@ -17,3 +17,4 @@ Currently only available in Python. Other languages coming soon!
 ## Programming Problems
 
 * [Merge Intervals](interview-prep/merge-intervals/python/Merge%20Intervals.ipynb)
+* [Overlapping Meetings](interview-prep/overlapping-meetings/python/Overlapping%20Meetings.ipynb)
